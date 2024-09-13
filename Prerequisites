@@ -1,0 +1,6 @@
+Prerequisites
+
+- VirtualBox or VMware installed
+- Kali Linux for testing
+- Vulnerable web application (DVWA, OWASP ZAP, etc.)
+- Penetration testing tools: Nmap, Burp Suite, Metasploit
